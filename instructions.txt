@@ -1,0 +1,6 @@
+This synthetic data comes from a hypothetical car company with thousands of stores throughout the Northeastern United States. 1000 stores were randomly sampled and asked how many cars they sold on that day (response.csv), as well as some other relevant information (predictors.csv).
+
+Your job is to build a simple model of the number of cars a store should expect to sell given the information in predictors.csv. Specifically, please do the following
+- Explore the predictors and their relationship to the response variable
+- Clean and/or transform the data in order to improve model performance
+- Build a simple model to predict units sold from the other features
